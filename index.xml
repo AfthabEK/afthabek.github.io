@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Personal Blog Site</title>
+    <link>http://blogs.afthabek.tech/</link>
+    <description>Recent content on My Personal Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Aug 2023 21:47:51 +0530</lastBuildDate><atom:link href="http://blogs.afthabek.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NewPipe</title>
+      <link>http://blogs.afthabek.tech/posts/newpipe/</link>
+      <pubDate>Thu, 17 Aug 2023 21:47:51 +0530</pubDate>
+      
+      <guid>http://blogs.afthabek.tech/posts/newpipe/</guid>
+      <description>NewPipe is a lightweight frontend for popular streaming services like YouTube, SoundCloud and PeerTube. It is completely ad-free and offers features like background playback and downloads, which are often restricted on other streaming platforms like the YouTube app. You don&amp;rsquo;t need an account for it as it parses the website of the streaming service to fetch the data we require. You can still subscribe to channels you like and this data is locally stored, ensuring a secure and private user experience.</description>
+      <content>&lt;p&gt;NewPipe is a lightweight frontend for popular streaming services like YouTube, SoundCloud and PeerTube. It is completely ad-free and offers features like background playback and downloads, which are often restricted on other streaming platforms like the YouTube app. You don&amp;rsquo;t need an account for it as it parses the website of the streaming service to fetch the data we require. You can still subscribe to channels you like and this data is locally stored, ensuring a secure and private user experience. Since it is open source, it is monitored by numerous users, assuring its safety against vulnerabilities and malware. Futhermore, as it uses  the GPL-V3 license, you can create your version of the app by modifying the source code and add new functionalities or modifications to suit your needs.&lt;/p&gt;
+&lt;p&gt;GitHub Repo: &lt;a href=&#34;https://github.com/TeamNewPipe/NewPipe&#34;&gt;https://github.com/TeamNewPipe/NewPipe&lt;/a&gt;
+F-droid : &lt;a href=&#34;https://f-droid.org/en/packages/org.schabi.newpipe/&#34;&gt;https://f-droid.org/en/packages/org.schabi.newpipe/&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
